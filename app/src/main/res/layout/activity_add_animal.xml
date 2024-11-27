@@ -27,7 +27,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="horizontal"
-            android:paddingLeft="20dp"
+            android:paddingLeft="21dp"
             android:layout_marginTop="30dp">
             <de.hdodenhof.circleimageview.CircleImageView
                 android:id="@+id/img_anh"
@@ -49,7 +49,7 @@
         android:layout_marginTop="30dp"
         app:boxBackgroundColor="#ffff"
         app:startIconTintMode="screen"
-        android:paddingBottom="1dp"
+        android:paddingBottom="2dp"
         android:paddingLeft="5dp"
         android:paddingTop="5dp"
         android:paddingRight="5dp"
